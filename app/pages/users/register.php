@@ -99,7 +99,8 @@ if (!empty($_SESSION['user'])) {
     }
 </style>
 
-
+<div class="container">
+<div class="row">
 
 <main class="form-signin w-100 m-auto">
     <form method="POST" action="<?php echo $auth; ?>">
@@ -127,7 +128,7 @@ if (!empty($_SESSION['user'])) {
         <p class="mt-5 mb-3 text-muted">&copy; 2017–2022</p>
     </form>
 </main>
-
+</div>
 
 
 <?php include(PAGES . '/users/inc/footer.php'); ?>
