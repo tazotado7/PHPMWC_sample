@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>Hello, world! my name is tamaz aladashvili</h1>
+    <h1>Hello, world! my name is tamaz </h1>
 
     <div class="container">
         <ul class="list-group">
